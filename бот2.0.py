@@ -3,7 +3,7 @@ from threading import *
 from random import *
 import time
 
-bot = telebot.TeleBot('6409207659:AAHRFPf-euAODM1Ir3Ef2rdshPOUhKsk54k')
+bot = telebot.TeleBot('')
 
 print('Bot started')
 
